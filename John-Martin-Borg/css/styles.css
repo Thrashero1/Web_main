@@ -4,3 +4,11 @@
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 30px;
 }
+
+.navbar {
+    padding-left: 0;
+}
+
+.front-painting {
+    padding: 5px;
+}
