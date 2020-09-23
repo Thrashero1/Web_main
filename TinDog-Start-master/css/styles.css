@@ -4,12 +4,20 @@
     
 }
 
+#features {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
+}
+
 #full_cover {
     font-family: 'Montserrat', sans-serif;
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 6%;
 }
 
 .TinTitle {
@@ -21,7 +29,9 @@
 
 .iphone {
     transform: rotate(30deg);
-    height: 70%;
+    width: 55%;
+    position: absolute;
+    right: 30%;
 }
 
 .down_area {
@@ -83,8 +93,7 @@
 }
 
 #testimonials {
-    padding: 7% 15%;
-    text-align: center;
+
     background-color: #ef8172;
     color: #fff;
 }
@@ -110,4 +119,18 @@ h2{
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#pricing {
+    padding: 4%;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }

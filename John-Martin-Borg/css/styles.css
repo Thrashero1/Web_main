@@ -10,5 +10,19 @@
 }
 
 .front-painting {
-    padding: 5px;
+    padding: 2%;
+}
+
+#navigation {
+    padding: 1.5rem 3%;
+}
+
+#new_images {
+    padding: 1.5rem 3%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.internal-images-title {
+    font-size: 20px;
 }
